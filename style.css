@@ -2,5 +2,5 @@ h1{
   color: blue;
 }
 body{
-  background-image: url("paper.gif");<!-- image is from free soccer field photos from pexels.com. I picked jpeg because it is a good image for a background that does not support transparency-->
+  background-image: url("field.jpeg");<!-- image is from free soccer field photos from pexels.com. I picked jpeg because it is a good image for a background that does not support transparency-->
 }
